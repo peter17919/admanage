@@ -1,2 +1,3 @@
 # admanage
 AD管理工具
+通过flask结合python的ldap库实现页面化的AD管理
